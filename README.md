@@ -12,4 +12,5 @@ $ llm = LLM()
 - I'll add tutorial on how to use vector embeddings as well maybe in the same repo or other repo.
 
 ## How to use?
-### Coming soon
+### Run Server
+{{ badge server.ipynb }}
